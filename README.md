@@ -1,5 +1,4 @@
 # mysql-replication
-Prerequisite:
 Install mysql on both nodes ( MASTER & SLAVE) ----> sudo apt update && sudo apt install mysql-server
 
 mysql port :3306
